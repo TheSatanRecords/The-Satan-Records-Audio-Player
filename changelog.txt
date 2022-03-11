@@ -1,0 +1,14 @@
+## The Satan Records Audio Player ##
+
+# Version 1.0.0
+
+"The Satan Records Audio Player" is the updated version of "The Satan Records Legacy Audio Player" (links at bottom) that uses Windows App SDK / WinUI 3 instead of WPF.
+
+Publish this on Microsoft Store!
+
+What can you do with TSRAP ("The Satan Records Audio Player")? Listen to music from The Satan Records bands. https://www.thesatan.com/bands
+
+___
+
+# For "The Satan Records Legacy Audio Player" (TSRLAP)
+-> see https://github.com/TheSatanRecords/The-Satan-Records-Legacy-Audio-Player/
