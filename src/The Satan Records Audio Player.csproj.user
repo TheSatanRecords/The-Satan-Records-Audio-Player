@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</Source>
+    <SmallTileSource>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</MediumTileSource>
+    <WideTileSource>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</WideTileSource>
+    <LargeTileSource>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</LargeTileSource>
+    <AppIconSource>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\tsr-favicon-2-big.png</PackageLogoSource>
+    <ActiveDebugProfile>The Satan Records Audio Player (Package)</ActiveDebugProfile>
+    <_LastSelectedProfileId>C:\Users\Ordi\Desktop\H2Fr Keyword\The Satan Records Audio Player\Properties\PublishProfiles\win10-arm64.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
